@@ -1,5 +1,5 @@
 {
-  "name": "real-time-chat-app",
+  "name": "real-time-chat-app-server",
   "version": "1.0.0",
   "description": "Chat with others in real time!",
   "main": "server.js",
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^3.0.1",
-    "socket.io": "^4.7.2"
+    "socket.io": "^4.6.1"
   }
 }
